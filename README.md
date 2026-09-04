@@ -35,7 +35,7 @@ CHRIST (Deemed to be University), Bengaluru
 
 ## ONLINE PROFILES
 - GitHub: [github.com/sanjaivishal](https://github.com/sanjaivishal)
-- LinkedIn: To be added after profile URL is resolved
+- LinkedIn: 
 
 ## RESUME
 The ATS-friendly resume PDF will be added to this repository as the resume is finalized.
